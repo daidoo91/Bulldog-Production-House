@@ -175,16 +175,22 @@ div h2{
 }
 
 #circle-cover-bg {
-    background: url("/images/french-bulldog-portrait-outdoors-autumn-colours-14808155.jpg") no-repeat center center;
+    background: url("../images/french-bulldog-portrait-outdoors-autumn-colours-14808155.jpg") no-repeat center center;
     height: 100%;
     border-radius: 25%;
 }
 
+/* footer */
 
 footer{
     height: 150px;
 }
-
+footer p{
+    font-size: 180%;
+    text-align: center;
+    color: #fff;
+    background-color: #3a3a3a;
+}
 .social-networks{
     text-align: center;
     font-size: 160%;
@@ -248,6 +254,10 @@ footer{
 
 #photos img{
     width: 100%;
+    margin-left: 1%;
+    margin-bottom: 10px;
+    display: inline-block;
+    height: 250px;
 }
 
 /* Form */

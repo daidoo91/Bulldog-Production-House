@@ -1,4 +1,7 @@
+<img src="./images/attachment_121100842.png" alt="my logo" width="50px">
+
 # Bulldog Production House
+
 View the live project <a href="https://daidoo91.github.io/Bulldog-Production-House/index.html" target="_blank">here</a>
 
 

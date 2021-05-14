@@ -132,23 +132,26 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 All images are taken from Google.com!
 
 
-Deployment
-GitHub Pages
+## Deployment
+
+### GitHub Pages
+
 The project was deployed to GitHub Pages using the following steps...
 
-Log in to GitHub and locate the GitHub Repository
-At the top of the Repository (not top of page), locate the "Settings" Button on the menu.
-Alternatively Click Here for a GIF demonstrating the process starting from Step 2.
-Scroll down the Settings page until you locate the "GitHub Pages" Section.
-Under "Source", click the dropdown called "None" and select "Master Branch".
-The page will automatically refresh.
-Scroll back down through the page to locate the now published site link in the "GitHub Pages" section.
-Forking the GitHub Repository
+1. Log in to GitHub and locate the [GitHub Repository](https://github.com/daidoo91/Bulldog-Production-House)
+2. At the top of the Repository (not top of page), locate the "Settings" Button on the menu.
+3. Scroll down the Settings page until you locate the "GitHub Pages" Section.
+4. Under "Source", click the dropdown called "None" and select "Master Branch".
+5. The page will automatically refresh.
+6. Scroll back down through the page to locate the now published site [link](https://daidoo91.github.io/Bulldog-Production-House/index.html) in the "GitHub Pages" section.
+
+### Forking the GitHub Repository
+
 By forking the GitHub Repository we make a copy of the original repository on our GitHub account to view and/or make changes without affecting the original repository by using the following steps...
 
-Log in to GitHub and locate the GitHub Repository
-At the top of the Repository (not top of page) just above the "Settings" Button on the menu, locate the "Fork" Button.
-You should now have a copy of the original repository in your GitHub account.
+1. Log in to GitHub and locate the [GitHub Repository](https://github.com/daidoo91/Bulldog-Production-House)
+2. At the top of the Repository (not top of page) just above the "Settings" Button on the menu, locate the "Fork" Button.
+3. You should now have a copy of the original repository in your GitHub account.
 
 
 ### Thank you for viewing my website!

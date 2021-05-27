@@ -16,7 +16,7 @@ View the live project <a href="https://daidoo91.github.io/Bulldog-Production-Hou
 * [User Expirience](#user-expirience)
 * [Testing](#testing)
 * [Deployment](#deployment)
-
+* [Credit](#credit)
 
 ## User Experience (UX)
 
@@ -152,6 +152,27 @@ By forking the GitHub Repository we make a copy of the original repository on ou
 1. Log in to GitHub and locate the [GitHub Repository](https://github.com/daidoo91/Bulldog-Production-House)
 2. At the top of the Repository (not top of page) just above the "Settings" Button on the menu, locate the "Fork" Button.
 3. You should now have a copy of the original repository in your GitHub account.
+
+
+### Credit
+
+ #### Code
+
+ * Knowledge -- [Code-Institute](https://codeinstitute.net/)
+ * [Gitpod](https://gitpod.oi/)
+
+ #### Content
+
+ * All content was written by me.
+
+ #### Media
+
+ * All images was taken from [Google](https://google.com/)
+
+ #### Acknowledgements
+
+ * My mentor Antonio Rodriguez for continuous helpful feedback.
+ * All great people from Code Institute for their support.
 
 
 ### Thank you for viewing my website!
